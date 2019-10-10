@@ -3,9 +3,41 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.21",
+    "@fortawesome/free-solid-svg-icons": "^5.10.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@material-ui/core": "^4.4.3",
+    "@material-ui/icons": "^4.4.3",
+    "@react-page/core": "^0.11.4",
+    "@react-page/create-plugin-materialui": "^0.11.4",
+    "@react-page/plugins-background": "^0.11.4",
+    "@react-page/plugins-default-native": "^0.11.4",
+    "@react-page/plugins-divider": "^0.11.4",
+    "@react-page/plugins-html5-video": "^0.11.4",
+    "@react-page/plugins-image": "^0.11.4",
+    "@react-page/plugins-parallax-background": "^0.11.4",
+    "@react-page/plugins-slate": "^0.11.4",
+    "@react-page/plugins-spacer": "^0.11.4",
+    "@react-page/plugins-video": "^0.11.4",
+    "@react-page/renderer": "^0.11.4",
+    "@react-page/ui": "^0.11.4",
+    "@types/react": "^16.9.2",
+    "axios": "^0.19.0",
+    "babel-preset-react-app": "^9.0.2",
+    "bootstrap": "^4.3.1",
+    "ory-editor": "^0.6.0",
     "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.11",
+    "react-burger-menu": "^2.6.11",
+    "react-dnd": "^9.4.0",
+    "react-dnd-html5-backend": "^9.4.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-iframe": "^1.8.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.1.1",
+    "react-sidemenu": "^1.1.0",
+    "react-transition-group": "^4.3.0",
+    "styled-components": "^4.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +59,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "flow-bin": "^0.107.0"
   }
 }
