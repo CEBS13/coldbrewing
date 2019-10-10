@@ -1,0 +1,2 @@
+(window.webpackJsonpcoldbrewing=window.webpackJsonpcoldbrewing||[]).push([[33],{1167:function(e,t,a){"use strict";var d=a(8);Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var o=d(a(0)),l=(0,d(a(336)).default)(o.default.createElement("path",{d:"M6 17h3l2-4V7H5v6h3zm8 0h3l2-4V7h-6v6h3z"}),"FormatQuote");t.default=l}}]);
+//# sourceMappingURL=33.2c2510de.chunk.js.map

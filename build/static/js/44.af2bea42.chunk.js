@@ -1,0 +1,2 @@
+(window.webpackJsonpcoldbrewing=window.webpackJsonpcoldbrewing||[]).push([[44],{1177:function(e,d,t){"use strict";var a=t(8);Object.defineProperty(d,"__esModule",{value:!0}),d.default=void 0;var o=a(t(0)),n=(0,a(t(336)).default)(o.default.createElement("path",{d:"M19 13H5v-2h14v2z"}),"Remove");d.default=n}}]);
+//# sourceMappingURL=44.af2bea42.chunk.js.map

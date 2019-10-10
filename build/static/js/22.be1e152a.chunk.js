@@ -1,0 +1,2 @@
+(window.webpackJsonpcoldbrewing=window.webpackJsonpcoldbrewing||[]).push([[22],{1168:function(e,d,l){"use strict";var t=l(8);Object.defineProperty(d,"__esModule",{value:!0}),d.default=void 0;var a=t(l(0)),o=(0,t(l(336)).default)(a.default.createElement("path",{d:"M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z"}),"Code");d.default=o}}]);
+//# sourceMappingURL=22.be1e152a.chunk.js.map
