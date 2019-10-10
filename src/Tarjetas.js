@@ -25,7 +25,7 @@ const Tarjetas = (props) => {
             <StyleTarjetas>
                 <Row>
                     <Col md="3" style={{margin:'30px 20px 30px 20px'}}>
-                    <img src= {props.imagenUrl} alt="palceholder"  style={{ width: "400px", height:"350px"}}/>
+                    <img src= {props.imagenUrl} alt="palceholder"  style={{ width: "200px", height:"180px",display:"flex", alignItems:"center"}}/>
                     </Col>
 
                     <Col sm ="9">

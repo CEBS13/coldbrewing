@@ -29,12 +29,12 @@ const Plantillas = () => {
             <Row style={{backgroundColor:"white", display:"felx", justifyContent:"space-around", alignItems: "center"}}>
                 
             <Tarjetas imagenUrl= {Imagen1} ></Tarjetas>
-            <Tarjetas></Tarjetas>
-            <Tarjetas></Tarjetas>
-            <Tarjetas></Tarjetas>
-            <Tarjetas></Tarjetas>
-            <Tarjetas></Tarjetas>
-            <Tarjetas></Tarjetas>
+            <Tarjetas imagenUrl = {Imagen2}></Tarjetas>
+            <Tarjetas imagenUrl = {Imagen3}></Tarjetas>
+            <Tarjetas imagenUrl = {Imagen2}></Tarjetas>
+            <Tarjetas imagenUrl = {Imagen1}></Tarjetas>
+            <Tarjetas imagenUrl = {Imagen3}></Tarjetas>
+            <Tarjetas imagenUrl = {Imagen2}></Tarjetas>
                 
 
 
